@@ -30,5 +30,4 @@ Each paper in the dataset occupies one folder, which contains the following file
 
 ## Citation
 
-In Progress...
-
+Alena Tsanda and Elena Bruches. _Russian-Language Multimodal Dataset for Automatic Summarization of Scientific Papers_. arXiv:2405.07886
