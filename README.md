@@ -1,7 +1,3 @@
-<p align="center">
-    <a href="https://arxiv.org/abs/2405.07886"><img src="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg" alt="arxiv"></a>
-</p>
-
 # summarization-dataset
 Multimodal summarization dataset for Russian
 
