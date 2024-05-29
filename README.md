@@ -28,6 +28,10 @@ Each paper in the dataset occupies one folder, which contains the following file
 | _Medicine_    |       963 178      |       107 449       |      19     |     45     |
 | Total         |      9 939 003     |      1 175 937      |     496     |     279    |
 
+## LLMs usage
+
+Gigachat: [link to Colab Notebook](https://drive.google.com/file/d/1pUm5R28xea5FQRbL4VciE38cb2E2mpQ3/view?usp=sharing)
+
 ## Citation
 
 Alena Tsanda and Elena Bruches. _Russian-Language Multimodal Dataset for Automatic Summarization of Scientific Papers_. arXiv:2405.07886
