@@ -30,7 +30,7 @@ Each paper in the dataset occupies one folder, which contains the following file
 
 ## LLMs usage
 
-Gigachat: [link to Colab Notebook](https://drive.google.com/file/d/1pUm5R28xea5FQRbL4VciE38cb2E2mpQ3/view?usp=sharing)
+We tested the following LLMs: GigaChat, YandexGPT and GPT-3.5 Turbo. The code for running these models can be found by this link: [link to Colab Notebook](https://drive.google.com/file/d/1pUm5R28xea5FQRbL4VciE38cb2E2mpQ3/view?usp=sharing)
 
 ## Citation
 
