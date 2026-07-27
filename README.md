@@ -2,7 +2,7 @@
 Multimodal summarization dataset for Russian
 
 ## Structure
-At the moment, the dataset contains 480 papers from 8 scientific domains: linguistics, history, law, medicine, journalism, computer science, economics, chemistry.
+At the moment, the dataset contains 480 papers from 8 scientific domains: linguistics, history, law, medicine, journalism, computer science, economics and chemistry.
 
 Each paper in the dataset occupies one folder, which contains the following files:
 
